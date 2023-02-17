@@ -62,13 +62,14 @@ footer {
 }
 
 h4 {
+  float: right;
   font-weight: bold;
   font-family: Caveat, open-sans;
   
 }
 
 .venessaImage {
-  float:left;
+
   width: 100%;
   height: 100%;
 }
