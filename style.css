@@ -1,0 +1,77 @@
+h2 {
+    text-align: left;
+    font-size: 175%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 800;
+    margin-left: 10%;
+    margin-right: auto;
+    padding-bottom: 0%;
+}
+
+#postedDate {
+    font-size: 75%;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 10%;
+    color: lightgray;
+}
+
+#printSection {
+    font-size: 75%;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: 10%;
+    color: lightgray;
+}
+
+#chocolatePizza {
+    margin-top: 1%;
+    width: 75%;
+    display: block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#par1 {
+    text-indent: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: lightgray;
+}
+
+#par2 {
+    text-indent: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: lightgray;
+}
+
+#par3 {
+    text-indent: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: lightgray;
+}
+
+#list1 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#list2 {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#listSection {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url("img/list-bg.png");
+}
