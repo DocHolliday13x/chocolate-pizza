@@ -33,7 +33,7 @@ header {
     margin-left:5px;
   }
   
-  header {
+  header h2{
     font-family: 'Arial Narrow', Arial, sans-serif;
     font-size: 9pt;
     margin-left:10px;
@@ -165,7 +165,7 @@ button:hover {
 }
 
 #smallLogo {
-  dislplay: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
