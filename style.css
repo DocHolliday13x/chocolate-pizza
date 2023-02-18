@@ -54,9 +54,10 @@
 
 footer {
   background: transparent;
+  text-align: center;
 }
 
-.slashedlines {
+#slashedlines {
   display: repeat;
   margin-bottom: 10px;
 }
@@ -68,7 +69,7 @@ h4 {
   
 }
 
-.venessaImage {
+#venessaImage {
 
   width: 100%;
   height: 100%;
@@ -77,10 +78,18 @@ h4 {
 button {
   background: rgb(134, 81, 60);
   color: white;
-
+  float: right;
+  size: 25px;
+  border: none;
 }
 
 button:hover {
   background: rgb(161, 60, 20);
+}
+
+#smallLogo {
+  dislplay: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
